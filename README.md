@@ -1,5 +1,7 @@
 ### Vue源码精读
 
+![vue流程图](./vue流程图.png)
+
 1. [Vue.extend](#extend)
 2. [Vue生命周期顺序](#life-cycle)
 3. [vm.$options](#options)
